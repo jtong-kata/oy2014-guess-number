@@ -16,3 +16,6 @@
 [submodule "Dale"]
 	path = Dale
 	url = git@github.com:Dale-/guess_number_game.git
+[submodule "kongliyuan"]
+	path = kongliyuan
+	url = git@github.com:konglingyuan/monkey_guess.git
