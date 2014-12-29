@@ -1,0 +1,18 @@
+[submodule "wangyao11"]
+	path = wangyao11
+	url = https://github.com/wangyao11/get_number.git
+[submodule "yangmingkun"]
+	path = yangmingkun
+	url = git@github.com:yangmingkun187/test-Guess-Number.git
+[submodule "Joesbeyond"]
+	path = Joesbeyond
+	url = git@github.com:Joesbeyond/guess-number-game.git
+[submodule "yh"]
+	path = yh
+	url = git@github.com:yh15248004/monkey_guess.git
+[submodule "liurong"]
+	path = liurong
+	url = git@github.com:liurong92/guess-what.git
+[submodule "Dale"]
+	path = Dale
+	url = git@github.com:Dale-/guess_number_game.git
