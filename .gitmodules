@@ -19,3 +19,6 @@
 [submodule "kongliyuan"]
 	path = kongliyuan
 	url = git@github.com:konglingyuan/monkey_guess.git
+[submodule "ranyang"]
+	path = ranyang
+	url = git@github.com:ranyang525/monkey-guess.git
